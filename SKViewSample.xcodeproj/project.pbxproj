@@ -7,14 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3244C1491F9D5C05009D5BF5 /* street-2262223_960_720.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3244C1481F9D5C04009D5BF5 /* street-2262223_960_720.jpg */; };
 		32929D921F9C737C00888B3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32929D911F9C737C00888B3A /* AppDelegate.swift */; };
 		32929D941F9C737C00888B3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32929D931F9C737C00888B3A /* ViewController.swift */; };
 		32929D971F9C737C00888B3A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32929D951F9C737C00888B3A /* Main.storyboard */; };
 		32929D991F9C737C00888B3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32929D981F9C737C00888B3A /* Assets.xcassets */; };
 		32929D9C1F9C737C00888B3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32929D9A1F9C737C00888B3A /* LaunchScreen.storyboard */; };
+		32929DA41F9C73D800888B3A /* Snow.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DA31F9C73D800888B3A /* Snow.sks */; };
+		32929DA61F9C7A4000888B3A /* 20170309_135054@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 32929DA51F9C7A4000888B3A /* 20170309_135054@2x.png */; };
+		32929DA81F9C7C1800888B3A /* skView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32929DA71F9C7C1800888B3A /* skView.swift */; };
+		32929DAA1F9C7E0600888B3A /* FireFlies.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DA91F9C7E0500888B3A /* FireFlies.sks */; };
+		32929DAC1F9C7E3000888B3A /* Bokeh.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DAB1F9C7E3000888B3A /* Bokeh.sks */; };
+		32929DAE1F9C7E5100888B3A /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DAD1F9C7E5100888B3A /* Fire.sks */; };
+		32929DB01F9C7E8E00888B3A /* Magic.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DAF1F9C7E8E00888B3A /* Magic.sks */; };
+		32929DB21F9C7EA100888B3A /* Rain.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DB11F9C7EA100888B3A /* Rain.sks */; };
+		32929DB41F9C7EB300888B3A /* Smoke.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DB31F9C7EB300888B3A /* Smoke.sks */; };
+		32929DB61F9C7EC300888B3A /* Spark.sks in Resources */ = {isa = PBXBuildFile; fileRef = 32929DB51F9C7EC300888B3A /* Spark.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3244C1481F9D5C04009D5BF5 /* street-2262223_960_720.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "street-2262223_960_720.jpg"; sourceTree = "<group>"; };
 		32929D8E1F9C737C00888B3A /* SKViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32929D911F9C737C00888B3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		32929D931F9C737C00888B3A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +34,16 @@
 		32929D981F9C737C00888B3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32929D9B1F9C737C00888B3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32929D9D1F9C737C00888B3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32929DA31F9C73D800888B3A /* Snow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Snow.sks; sourceTree = "<group>"; };
+		32929DA51F9C7A4000888B3A /* 20170309_135054@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20170309_135054@2x.png"; sourceTree = "<group>"; };
+		32929DA71F9C7C1800888B3A /* skView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = skView.swift; sourceTree = "<group>"; };
+		32929DA91F9C7E0500888B3A /* FireFlies.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireFlies.sks; sourceTree = "<group>"; };
+		32929DAB1F9C7E3000888B3A /* Bokeh.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Bokeh.sks; sourceTree = "<group>"; };
+		32929DAD1F9C7E5100888B3A /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
+		32929DAF1F9C7E8E00888B3A /* Magic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Magic.sks; sourceTree = "<group>"; };
+		32929DB11F9C7EA100888B3A /* Rain.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rain.sks; sourceTree = "<group>"; };
+		32929DB31F9C7EB300888B3A /* Smoke.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Smoke.sks; sourceTree = "<group>"; };
+		32929DB51F9C7EC300888B3A /* Spark.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Spark.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +57,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3244C14A1F9D5C67009D5BF5 /* Particle */ = {
+			isa = PBXGroup;
+			children = (
+				32929DAB1F9C7E3000888B3A /* Bokeh.sks */,
+				32929DA31F9C73D800888B3A /* Snow.sks */,
+				32929DA91F9C7E0500888B3A /* FireFlies.sks */,
+				32929DAD1F9C7E5100888B3A /* Fire.sks */,
+				32929DAF1F9C7E8E00888B3A /* Magic.sks */,
+				32929DB11F9C7EA100888B3A /* Rain.sks */,
+				32929DB31F9C7EB300888B3A /* Smoke.sks */,
+				32929DB51F9C7EC300888B3A /* Spark.sks */,
+			);
+			name = Particle;
+			sourceTree = "<group>";
+		};
 		32929D851F9C737B00888B3A = {
 			isa = PBXGroup;
 			children = (
@@ -54,8 +91,12 @@
 		32929D901F9C737C00888B3A /* SKViewSample */ = {
 			isa = PBXGroup;
 			children = (
+				3244C14A1F9D5C67009D5BF5 /* Particle */,
+				3244C1481F9D5C04009D5BF5 /* street-2262223_960_720.jpg */,
+				32929DA51F9C7A4000888B3A /* 20170309_135054@2x.png */,
 				32929D911F9C737C00888B3A /* AppDelegate.swift */,
 				32929D931F9C737C00888B3A /* ViewController.swift */,
+				32929DA71F9C7C1800888B3A /* skView.swift */,
 				32929D951F9C737C00888B3A /* Main.storyboard */,
 				32929D981F9C737C00888B3A /* Assets.xcassets */,
 				32929D9A1F9C737C00888B3A /* LaunchScreen.storyboard */,
@@ -125,7 +166,17 @@
 			files = (
 				32929D9C1F9C737C00888B3A /* LaunchScreen.storyboard in Resources */,
 				32929D991F9C737C00888B3A /* Assets.xcassets in Resources */,
+				32929DA41F9C73D800888B3A /* Snow.sks in Resources */,
+				32929DB21F9C7EA100888B3A /* Rain.sks in Resources */,
+				32929DAA1F9C7E0600888B3A /* FireFlies.sks in Resources */,
+				32929DB61F9C7EC300888B3A /* Spark.sks in Resources */,
+				3244C1491F9D5C05009D5BF5 /* street-2262223_960_720.jpg in Resources */,
+				32929DAC1F9C7E3000888B3A /* Bokeh.sks in Resources */,
+				32929DAE1F9C7E5100888B3A /* Fire.sks in Resources */,
 				32929D971F9C737C00888B3A /* Main.storyboard in Resources */,
+				32929DB41F9C7EB300888B3A /* Smoke.sks in Resources */,
+				32929DB01F9C7E8E00888B3A /* Magic.sks in Resources */,
+				32929DA61F9C7A4000888B3A /* 20170309_135054@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32929D941F9C737C00888B3A /* ViewController.swift in Sources */,
+				32929DA81F9C7C1800888B3A /* skView.swift in Sources */,
 				32929D921F9C737C00888B3A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
